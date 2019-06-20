@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/vikasmulaje/automate/4_dec/spicegate/features/netstorage_certification'
+let g:netrw_dirhist_2='/home/vikasmulaje/automate/development/spicegate/features/steps'
+let g:netrw_dirhist_3='/home/vikasmulaje/automate/development/disintegrate_E2E/spicegate/spicegate/features/steps'
